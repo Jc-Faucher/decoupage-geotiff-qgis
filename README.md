@@ -12,3 +12,10 @@ Ce dépôt contient le code Python utilisé dans le cadre de mon mémoire de ma�
 | **criteres_indicateurs_portraits.py** | Dictionnaire des critères par fichier ZIP (scénarios, périodes, récurrences, etc.). |
 | **regio_s.shp** *(non inclus)* | Shapefile du Québec utilisé pour découper les rasters (exclu pour taille). |
 | **ZIPS/** *(non inclus)* | Dossier contenant les fichiers ZIP climatiques téléchargés depuis ESPO-G. |
+
+
+---
+
+Données originales : [Portraits climatiques (Ouranos)](https://portraits.ouranos.ca/donnees/)
+
+Analyse réalisée dans le cadre du mémoire de maîtrise de Jean-Cédric Faucher, 2025.
