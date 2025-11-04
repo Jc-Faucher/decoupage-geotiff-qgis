@@ -19,3 +19,10 @@ Ce dépôt contient le code Python utilisé dans le cadre de mon mémoire de ma�
 Données originales : [Portraits climatiques (Ouranos)](https://portraits.ouranos.ca/donnees/)
 
 Analyse réalisée dans le cadre du mémoire de maîtrise de Jean-Cédric Faucher, 2025.
+
+## Licence
+
+Ce dépôt est distribué sous la licence **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
+Vous êtes libre de partager et d'adapter le matériel à condition d’en attribuer la paternité à l’auteur original.
+
+➡️ [Consulter le texte complet de la licence](https://creativecommons.org/licenses/by/4.0/)
